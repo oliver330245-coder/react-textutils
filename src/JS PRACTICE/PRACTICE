@@ -1,0 +1,23 @@
+import './App.css';
+
+function App() {
+  return (
+    <>
+      <nav>
+        <ul>
+          <li>Home</li>
+          <li>About</li>
+          <li>Contact</li>
+        </ul>
+      </nav>
+
+<div ClassName ="container"></div>
+<b>React is the library for web and native user interfaces. Build user interfaces out of individual pieces called components written in JavaScript.</b>
+
+
+      <div className="blank">lovely</div>
+    </>
+  );
+}
+
+export default App;
